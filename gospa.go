@@ -245,7 +245,7 @@ func main() {
 	flag.Usage = func() {
 		fmt.Printf(
 			`Gospa - GO and Save this (web) PAge
-Usage: gospa (optional)[FLAGs]... (mandatory)-u [webpage URL]
+Usage: gospa (optional)[FLAGs]... (mandatory)-url [webpage URL]
 
 Flags:
 -help -> Print this message and exit
